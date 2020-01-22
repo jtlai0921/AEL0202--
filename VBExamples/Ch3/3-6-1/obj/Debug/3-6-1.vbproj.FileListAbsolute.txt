@@ -1,0 +1,12 @@
+c:\users\jason lee\source\repos\3-6-1\bin\Debug\3-6-1.exe.config
+c:\users\jason lee\source\repos\3-6-1\bin\Debug\3-6-1.exe
+c:\users\jason lee\source\repos\3-6-1\bin\Debug\3-6-1.pdb
+c:\users\jason lee\source\repos\3-6-1\bin\Debug\3-6-1.xml
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\3-6-1.vbprojAssemblyReference.cache
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\_3_6_1.Form1.resources
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\_3_6_1.Resources.resources
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\3-6-1.vbproj.GenerateResource.cache
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\3-6-1.vbproj.CoreCompileInputs.cache
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\3-6-1.exe
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\3-6-1.xml
+c:\users\jason lee\source\repos\3-6-1\obj\Debug\3-6-1.pdb

@@ -1,0 +1,12 @@
+D:\VBExamples\4-3-2-2\bin\Debug\4-3-2-2.exe.config
+D:\VBExamples\4-3-2-2\bin\Debug\4-3-2-2.exe
+D:\VBExamples\4-3-2-2\bin\Debug\4-3-2-2.pdb
+D:\VBExamples\4-3-2-2\bin\Debug\4-3-2-2.xml
+D:\VBExamples\4-3-2-2\obj\Debug\4-3-2-2.vbprojAssemblyReference.cache
+D:\VBExamples\4-3-2-2\obj\Debug\_4_3_2_2.Form1.resources
+D:\VBExamples\4-3-2-2\obj\Debug\_4_3_2_2.Resources.resources
+D:\VBExamples\4-3-2-2\obj\Debug\4-3-2-2.vbproj.GenerateResource.cache
+D:\VBExamples\4-3-2-2\obj\Debug\4-3-2-2.vbproj.CoreCompileInputs.cache
+D:\VBExamples\4-3-2-2\obj\Debug\4-3-2-2.exe
+D:\VBExamples\4-3-2-2\obj\Debug\4-3-2-2.xml
+D:\VBExamples\4-3-2-2\obj\Debug\4-3-2-2.pdb

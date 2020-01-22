@@ -1,0 +1,11 @@
+D:\VBExamples\10-2-1\bin\Debug\10-2-1.exe.config
+D:\VBExamples\10-2-1\bin\Debug\10-2-1.exe
+D:\VBExamples\10-2-1\bin\Debug\10-2-1.pdb
+D:\VBExamples\10-2-1\bin\Debug\10-2-1.xml
+D:\VBExamples\10-2-1\obj\Debug\_10_2_1.Form1.resources
+D:\VBExamples\10-2-1\obj\Debug\_10_2_1.Resources.resources
+D:\VBExamples\10-2-1\obj\Debug\10-2-1.vbproj.GenerateResource.cache
+D:\VBExamples\10-2-1\obj\Debug\10-2-1.vbproj.CoreCompileInputs.cache
+D:\VBExamples\10-2-1\obj\Debug\10-2-1.exe
+D:\VBExamples\10-2-1\obj\Debug\10-2-1.xml
+D:\VBExamples\10-2-1\obj\Debug\10-2-1.pdb

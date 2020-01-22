@@ -1,0 +1,12 @@
+C:\Users\Jason Lee\source\repos\12-2-1\bin\Debug\12-2-1.exe.config
+C:\Users\Jason Lee\source\repos\12-2-1\bin\Debug\12-2-1.exe
+C:\Users\Jason Lee\source\repos\12-2-1\bin\Debug\12-2-1.pdb
+C:\Users\Jason Lee\source\repos\12-2-1\bin\Debug\12-2-1.xml
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\12-2-1.vbprojAssemblyReference.cache
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\_12_2_1.Form1.resources
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\_12_2_1.Resources.resources
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\12-2-1.vbproj.GenerateResource.cache
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\12-2-1.vbproj.CoreCompileInputs.cache
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\12-2-1.exe
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\12-2-1.xml
+C:\Users\Jason Lee\source\repos\12-2-1\obj\Debug\12-2-1.pdb

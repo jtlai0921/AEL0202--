@@ -1,0 +1,24 @@
+D:\VBExamples\7-4-1\bin\Debug\7-4-1.exe.config
+D:\VBExamples\7-4-1\bin\Debug\7-4-1.exe
+D:\VBExamples\7-4-1\bin\Debug\7-4-1.pdb
+D:\VBExamples\7-4-1\bin\Debug\7-4-1.xml
+D:\VBExamples\7-4-1\obj\Debug\7-4-1.vbprojAssemblyReference.cache
+D:\VBExamples\7-4-1\obj\Debug\_7_4_1.Form1.resources
+D:\VBExamples\7-4-1\obj\Debug\_7_4_1.Resources.resources
+D:\VBExamples\7-4-1\obj\Debug\7-4-1.vbproj.GenerateResource.cache
+D:\VBExamples\7-4-1\obj\Debug\7-4-1.vbproj.CoreCompileInputs.cache
+D:\VBExamples\7-4-1\obj\Debug\7-4-1.exe
+D:\VBExamples\7-4-1\obj\Debug\7-4-1.xml
+D:\VBExamples\7-4-1\obj\Debug\7-4-1.pdb
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\bin\Debug\7-4-1.exe.config
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\bin\Debug\7-4-1.exe
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\bin\Debug\7-4-1.pdb
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\bin\Debug\7-4-1.xml
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\7-4-1.vbprojAssemblyReference.cache
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\_7_4_1.Form1.resources
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\_7_4_1.Resources.resources
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\7-4-1.vbproj.GenerateResource.cache
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\7-4-1.vbproj.CoreCompileInputs.cache
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\7-4-1.exe
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\7-4-1.xml
+D:\1_Book_Visual Basic 2017程式設計18堂特訓\書附光碟\VBExamples\Ch7\7-4-1\obj\Debug\7-4-1.pdb

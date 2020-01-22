@@ -1,0 +1,24 @@
+C:\Users\Jason Lee\source\repos\1-7-1\bin\Debug\1-7-1.exe.config
+C:\Users\Jason Lee\source\repos\1-7-1\bin\Debug\1-7-1.exe
+C:\Users\Jason Lee\source\repos\1-7-1\bin\Debug\1-7-1.pdb
+C:\Users\Jason Lee\source\repos\1-7-1\bin\Debug\1-7-1.xml
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\1-7-1.vbprojAssemblyReference.cache
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\_1_7_1.Form1.resources
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\_1_7_1.Resources.resources
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\1-7-1.vbproj.GenerateResource.cache
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\1-7-1.vbproj.CoreCompileInputs.cache
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\1-7-1.exe
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\1-7-1.xml
+C:\Users\Jason Lee\source\repos\1-7-1\obj\Debug\1-7-1.pdb
+D:\VBExamples\Ch1\1-7-1\bin\Debug\1-7-1.exe.config
+D:\VBExamples\Ch1\1-7-1\bin\Debug\1-7-1.exe
+D:\VBExamples\Ch1\1-7-1\bin\Debug\1-7-1.pdb
+D:\VBExamples\Ch1\1-7-1\bin\Debug\1-7-1.xml
+D:\VBExamples\Ch1\1-7-1\obj\Debug\1-7-1.vbprojAssemblyReference.cache
+D:\VBExamples\Ch1\1-7-1\obj\Debug\_1_7_1.Form1.resources
+D:\VBExamples\Ch1\1-7-1\obj\Debug\_1_7_1.Resources.resources
+D:\VBExamples\Ch1\1-7-1\obj\Debug\1-7-1.vbproj.GenerateResource.cache
+D:\VBExamples\Ch1\1-7-1\obj\Debug\1-7-1.vbproj.CoreCompileInputs.cache
+D:\VBExamples\Ch1\1-7-1\obj\Debug\1-7-1.exe
+D:\VBExamples\Ch1\1-7-1\obj\Debug\1-7-1.xml
+D:\VBExamples\Ch1\1-7-1\obj\Debug\1-7-1.pdb
